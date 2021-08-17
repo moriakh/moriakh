@@ -1,6 +1,8 @@
 ### Hi there 👋
 # Just giving a new look
 
+my mind:
+https://www.youtube.com/watch?v=rRm0NDo1CiY&ab
 
 <!--
 **moriakh/moriakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
